@@ -1,1 +1,1 @@
-# JSAlgos-DatastructorsMastorclass
+# JSAlgos-DatastructorsMasterclass
